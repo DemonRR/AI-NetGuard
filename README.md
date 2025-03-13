@@ -22,16 +22,16 @@
 
 ### Webshell检测
 
-![2](E:\主文件夹\桌面\fofa\AI-NetGuard\assets\2.png)
+![2](assets/2.png)
 
 ### 流量分析
 
-![3](E:\主文件夹\桌面\fofa\AI-NetGuard\assets\3.png)
+![3](assets/3.png)
 
 ### 基础配置
 
-![4](E:\主文件夹\桌面\fofa\AI-NetGuard\assets\4.png)
+![4](assets/4.png)
 
 ### 设置
 
-![5](E:\主文件夹\桌面\fofa\AI-NetGuard\assets\5.png)
+![5](assets/5.png)
