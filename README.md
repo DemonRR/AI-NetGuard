@@ -1,5 +1,6 @@
-# AI-NetGuard
-
+<p align="center">
+  <h1 align="center">AI-NetGuard</h1>
+</p>
 
 <p align="center">
 <a href="https://github.com/DemonRR/AI-NetGuard/releases/"><img src="https://img.shields.io/github/release/DemonRR/AI-NetGuard?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=square"></a>
