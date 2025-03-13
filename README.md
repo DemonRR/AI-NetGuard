@@ -18,7 +18,7 @@
 
 ### 代码审计
 
-![1](E:\主文件夹\桌面\fofa\AI-NetGuard\assets\1.png)
+![1](\assets\1.png)
 
 ### Webshell检测
 
