@@ -1,5 +1,13 @@
 # AI-NetGuard
 
+
+<p align="center">
+<a href="https://github.com/DemonRR/AI-NetGuard/releases/"><img src="https://img.shields.io/github/release/DemonRR/AI-NetGuard?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=square"></a>
+<a href="https://github.com/DemonRR/AI-NetGuard/releases"><img src="https://img.shields.io/github/downloads/DemonRR/AI-NetGuard/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&style=square"></a>
+<a href="https://github.com/DemonRR/AI-NetGuard/issues"><img src="https://img.shields.io/github/issues-raw/DemonRR/AI-NetGuard?label=%E9%97%AE%E9%A2%98%E5%8F%8D%E9%A6%88&style=square"></a>
+<a href="https://github.com/DemonRR/AI-NetGuard/discussions"><img src="https://img.shields.io/github/stars/DemonRR/AI-NetGuard?label=%E7%82%B9%E8%B5%9E%E6%98%9F%E6%98%9F&style=square"></a>
+</p>
+
 ## 简介
 
 基于DeepSeek等AI模型，实现智能代码审计、Webshell检测及流量分析研判，助力高效网络安全威胁识别与处置。
