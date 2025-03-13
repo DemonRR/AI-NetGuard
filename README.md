@@ -18,7 +18,7 @@
 
 ### 代码审计
 
-![1](\assets\1.png)
+![1](assets\1.png)
 
 ### Webshell检测
 
