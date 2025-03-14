@@ -22,8 +22,8 @@
 - [x] 代码审计
 - [x] Webshell检测
 - [x] 流量分析
-- [ ] 对接Deepseek
-- [ ] Api余额显示
+- [x] 对接Deepseek
+- [x] Api余额显示
 - [ ] 温度自定义
 
 ## 展示
