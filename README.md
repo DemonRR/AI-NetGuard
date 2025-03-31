@@ -11,7 +11,7 @@
 
 ## 简介
 
-基于DeepSeek等AI模型，实现智能代码审计、Webshell检测及流量分析研判，助力高效网络安全威胁识别与处置。
+基于Python和PySide6框架开发，集成DeepSeek等先进AI模型，提供智能代码审计、Webshell检测及流量分析研判功能，助力网络安全团队高效识别与处置威胁，提升整体防御能力。
 
 目前支持接入平台：Ollama、Siliconflow、Deepseek
 
